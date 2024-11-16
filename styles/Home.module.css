@@ -1,0 +1,54 @@
+/* Main container */
+.mainContainer {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+  background-color: #000; /* Black background */
+}
+
+/* Content wrapper */
+.contentWrapper {
+  text-align: center; /* Center all text inside */
+  padding: 20px;
+  max-width: 800px; /* Prevent overly wide text */
+  margin: auto;
+}
+
+/* Heading styling */
+.heading {
+  font-family: 'Playfair Display', serif; /* Elegant serif font */
+  font-size: 36px; /* Adjusted size for readability */
+  font-weight: bold;
+  color: #fff; /* White for contrast */
+  margin-bottom: 20px; /* Space below the heading */
+  line-height: 1.4; /* Increase line spacing for clarity */
+}
+
+/* Subheading styling */
+.subheading {
+  font-family: 'Source Sans Pro', sans-serif; /* Clean sans-serif font */
+  font-size: 18px; /* Adjusted size for readability */
+  font-weight: 300; /* Light weight for a modern look */
+  color: #ccc; /* Softer color for subtle contrast */
+  line-height: 1.6; /* Improved readability */
+  margin-bottom: 30px; /* Space below the subheading */
+}
+
+/* Button styling */
+.signUpButton {
+  background-color: #00c9c9; /* Vibrant teal color */
+  color: white;
+  padding: 12px 30px;
+  font-size: 18px; /* Balanced size */
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.signUpButton:hover {
+  background-color: #008c8c; /* Darker teal on hover */
+}
