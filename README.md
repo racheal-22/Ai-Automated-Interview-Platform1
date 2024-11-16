@@ -16,19 +16,7 @@ The platform aims to enhance the interview process, making it more efficient and
 - **Adaptive Questioning**: Based on the candidate’s responses, the AI adapts and asks follow-up questions to dig deeper into their knowledge.
 - **Real-Time Feedback**: Instant feedback on both technical skills (code correctness) and soft skills (communication).
 
-## Tech Stack
-- **Frontend**: Next.js, React
-- **Backend**: Python (for AI-driven functionalities)
-- **Database**: MySQL or MongoDB (for storing candidate data, past interviews, etc.)
-- **AI**: Natural Language Processing (NLP) for evaluating answers and Machine Learning models for adapting the interview questions.
-- **Code Evaluation**: Use of sandboxed environments to evaluate code submissions.
 
-## Installation
-
-### Prerequisites
-- Node.js
-- npm or yarn
-- Python (for backend AI functionalities)
 
 ### Steps to Set Up
 1. Clone this repository:
