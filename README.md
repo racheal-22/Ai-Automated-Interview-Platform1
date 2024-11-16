@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# An-Adaptive-Conversation-Agent-For-Technical-Interview-Real-Time-Code-Evaluation
+AI-powered voice-based coding interview platform transforms technical interview preparation by providing a natural, interactive, and efficient experience. Combining real-time feedback and advanced NLP, it helps candidates perform better and gain confidence during interviews.
+>>>>>>> f3f02dea7140db9faf19a22a402c9567a1e8fa01
